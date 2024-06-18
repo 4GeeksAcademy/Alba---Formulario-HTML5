@@ -1,0 +1,16 @@
+body{
+    color: grey;
+    font-family: montserrat;
+}
+.btn-enviar{
+    color: white;
+    background-color: darkturquoise;;
+}
+
+.titulo{
+    background-color: gainsboro;
+    color:black;
+}
+.container{
+    border-color: black;
+}
